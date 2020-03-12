@@ -24,7 +24,7 @@ class HomeScreen extends Component{
     render(){
         return(
             <View style={{flex:1, justifyContent:"center"}}>
-                <Text>Học code dạo vui ghê</Text>
+                <Text>Học code dạo không vui</Text>
             </View>
         );
     }
